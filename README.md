@@ -14,7 +14,7 @@
 Love to solve problems and learn new things
 
 - 🔭 I’m currently working on building MERN stack projects
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently learning React framework and DSA
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with Django projects
 - 💬 Ask me about programming and technology
