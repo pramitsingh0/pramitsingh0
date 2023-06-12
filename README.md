@@ -15,18 +15,18 @@ Love to solve problems and learn new things
 
 - 🔭 I’m currently working on building MERN stack projects
 - 🌱 I’m currently learning React framework and DSA
-- 👯 I’m looking to collaborate on Django projects
-- 🤔 I’m looking for help with Django projects
+- 👯 I’m looking to collaborate on Django, Node, React projects
+- 🤔 I’m looking for help with Django, Node, React projects
 - 💬 Ask me about programming and technology
 - 📫 How to reach me: pramitsingh0@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My mom says I cook good
+
 
 ## Language and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width=40 height=40 title="python" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width=40 height=40 title="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width=40 height=40 title="django" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width=40 height=40 title="html" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width=40 height=40 title="css" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width=40 height=40 title="git" />
