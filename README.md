@@ -33,6 +33,10 @@ Love to solve problems and learn new things
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width=40 height=40 title="javascript" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width=40 height=40 title="sqlite" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width=40 height=40 title="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width=40 height=40 title="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width=40 height=40 title="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width=40 height=40 title="express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width=40 height=40 title="node"/>
 </div>
 
 
